@@ -1,0 +1,2 @@
+- Hello! I'm Will, an Oxford maths graduate looking to go into software development.
+- Here you can check out my previous projects and any that I am currently working on!
