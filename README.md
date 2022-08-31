@@ -2,6 +2,6 @@
 
 # Hello!
 
-- I'm Will, an Oxford maths graduate looking to go into software development.
+- I'm Will, a software developer at Ghyston and Oxford maths graduate.
 - Here you can check out my previous projects and any that I am currently working on!
 - For a little more about me, check out my [<img align="bottom" width="17" height="17" src="LinkedIn.png">](https://www.linkedin.com/in/willshardlow/).
